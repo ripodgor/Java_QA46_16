@@ -7,4 +7,4 @@
 
 Напишите на класс `Game` тесты, покрыв по бранчам на 100%.
 
-##[Решение](https://github.com/ripodgor/Java_QA46_16)
+## [Решение](https://github.com/ripodgor/Java_QA46_16)
